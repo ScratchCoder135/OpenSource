@@ -4,7 +4,7 @@
 1.`ball.ejs` is for serverside rendering,the bs variable is for you to block any browsers that may occur errors.
 
 ```js
-res.render("ballcaptcha",{bs:browser==="BadBrowSER"}
+res.render("ballcaptcha",{bs:browser==="BadBrowSER"})
 ```
 
 2.you can either use the css inside `ball.ejs` or download `stylish.css` to use.
