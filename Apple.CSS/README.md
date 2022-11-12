@@ -12,7 +12,7 @@ $ git clone https://github.com/ScratchCoder135/Apple-CSS.git
 ## Programming:
 index.html
 ```html
-<!--using this command will automatically add css file (/apple.css)
+<!--using this command will automatically add css file (/apple.css)-->
 <script src="/appleCSS.min.js"></script>
 ```
 #### For noscript installation
@@ -27,7 +27,7 @@ index.html
 # Online service(May stop on 28th Nov 2021)
 apple.ejs
 ```ejs
-<%if(apple==="allowed")%>
+<%if(apple==="allowed"){%>
 <script src="https://serverfrmme.herokuapp.com/appleCSS.min.js"></script>
 <%}%>
 ```
