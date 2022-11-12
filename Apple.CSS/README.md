@@ -46,5 +46,5 @@ body.appendChild(div)
 
 # Project References:
 <a style="font-size:30px;" href="https://sec-id.netlify.app/index.html">Ref1</a>
-<a style="font-size:30px;" href="https://sec-id.netlify.app/index.htmlhttps://serverfrmme.herokuapp.com/applecss">Ref2</a>
-<a style="font-size:30px;" href="https://sec-id.netlify.app/index.htmlhttps://serverfrmme.herokuapp.com/studioproj">Ref3</a>
+<a style="font-size:30px;" href="https://serverfrmme.herokuapp.com/applecss">Ref2</a>
+<a style="font-size:30px;" href="https://serverfrmme.herokuapp.com/studioproj">Ref3</a>
